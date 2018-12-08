@@ -3,8 +3,3 @@ font-family:'Zawgyi-One';
 src: url('https://cdn.rawgit.com/LeonarAung/MyanmarFont/6cf1262f/zawgyi.ttf') format('woff'), url('https://cdn.rawgit.com/LeonarAung/MyanmarFont/6cf1262f/zawgyi.ttf') format('ttf');
 }
 
-body,textarea,input,html,li,ul,ol,p,div,span,h1,h2,h3,h4,h5,h6,table,tr,td,a,u,br,label,button,dt,dl,q,s,marquee,pre,title,*  {
-    margin: 0px;
-    padding: 0px;
-    font-family: 'Zawgyi-One';
-     }
